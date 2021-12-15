@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "searchpet",
+    "slug": "searchpet",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "searchpet"
+}
